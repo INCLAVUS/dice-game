@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #001c4a;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #a4cc4e;
+}
+
+p {
+  font-size: 2rem;
+  color: #a4cc4e;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+a{
+  margin: 30px;
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #a4cc4e;
+  text-decoration: none;
+  text-align: center;
+}
+a:hover{
+  color: #40501d;
+}
